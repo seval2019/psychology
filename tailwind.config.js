@@ -12,7 +12,7 @@ module.exports = {
         secondary: "#222831",
       }, 
       fontFamily: {
-        oswald: ["Oswald, sans-serif"], // Adds a new `font-display` class,
+        poppins: ["Poppins", "sans-serif"],
         dancing: ["Dancing Script", "cursive"],
       },
     },
